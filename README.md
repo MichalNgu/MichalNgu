@@ -5,7 +5,7 @@ ahoj jmenuji se michal a učim se programovat
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_michal.cz_) 
 [![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@ig_michal.cz_)
-[![iCloud](https://img.shields.io/badge/iCloud-michal%40icloud.com-000000?logo=apple&logoColor=white)](mailto:medvidekcz@icloud.com)
+[![iCloud](https://img.shields.io/badge/iCloud-000000?logo=apple&logoColor=white)](mailto:medvidekcz@icloud.com)
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199066144090/)
 
 # 💻 Tech Stack:
